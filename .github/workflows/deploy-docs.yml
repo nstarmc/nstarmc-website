@@ -1,5 +1,5 @@
 
-name: 部署文档
+name: 部署NSTARMC网站
 
 on:
   push:
@@ -11,7 +11,7 @@ jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: 检查环境
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
