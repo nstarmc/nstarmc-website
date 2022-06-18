@@ -1,17 +1,15 @@
 {
-  "name": "nstarmc",
+  "name": "nstarmc-tools-docs",
   "version": "2.0.0",
-  "description": "nstarmc",
+  "description": "docs",
   "license": "MIT",
   "scripts": {
-    "docs:build": "vuepress build web",
-    "docs:clean-dev": "vuepress dev web --clean-cache",
-    "docs:dev": "vuepress dev web"
+    "docs:build": "vuepress build nstarmc-tools-docs",
+    "docs:clean-dev": "vuepress dev nstarmc-tools-docs --clean-cache",
+    "docs:dev": "vuepress dev nstarmc-tools-docs"
   },
   "devDependencies": {
-    "@vuepress/client": "^2.0.0-beta.48",
-    "vue": "^3.2.36",
-    "vuepress": "^2.0.0-beta.48",
-    "vuepress-theme-hope": "^2.0.0-beta.83"
+    "vuepress": "^2.0.0-beta.39",
+    "vuepress-theme-hope": "^2.0.0-beta.38"
   }
 }
