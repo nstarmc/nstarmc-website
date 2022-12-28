@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update>
+<version>
+   <ver>37</ver>
+   <full>Tru</full>
+   <zldv>2</zldv>
+   <zldurl>https://www.nstarmc.cn/data/del.list</zldurl>
+   <zlcurl>https://www.nstarmc.cn/data/create.list</zlcurl>
+   <zlpurl>https://www.nstarmc.cn/data/put.list</zlpurl>
+   <upurl1>https://alis.dnxshare.cn/2022-01-20-2/2022-01-21.zip</upurl1>
+   <upurl2>https://alis.dnxshare.cn/2022-01-20-2/2022-01-21.zip</upurl2>
+   <upurl3>https://alis.dnxshare.cn/2022-01-20-2/2022-01-21.zip</upurl3>
+   <serverip>https://www.nstarmc.cn/data/servers.dat</serverip>
+   <desktopver>https://www.nstarmc.cn/data/version.list</desktopver>
+   <qiangxing>True</qiangxing>
+   <info>修复HMCL更新导致无法引导启动器问题
+   </info>
+</version>
+<updatetitle>
+    <upvalue>1</upvalue>
+    <up1>阿里云盘</up1>
+    <up2>Teambition[准备关停]</up2>
+    <up3>Onedrive[稳定]</up3>
+</updatetitle>
+<desktop>
+    <url>https://alis.dnxshare.cn/2022-01-20-2/%E5%A4%9C%E9%98%91%E6%98%9F%E7%A9%BA%E7%BE%A4%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%A2%E6%88%B7%E7%AB%AFSetup-%203.3.1%20Release.exe</url>
+    <version>3.3.1.1</version>
+    <ver>666</ver>
+    <info>1.调整背景随机函数
+2.添加启动窗口，去除文件下载小弹窗
+    </info>
+    <notice>服务器指令：（请前往网页查看）
+https://docs.nstarmc.cn/server/command/
+现已支持传送玩家
+#活动预告
+2022年1月28号晚上9点合影
+另外，宝箱第二期准备开启~
+#图片征集
+启动器图片征集，要求为服务器内建筑/风景
+提交格式：PNG
+被采用的1钻石1张图
+    </notice>
+    <msgv>True</msgv>
+    <msgt>快去群文件下载更新！！！</msgt>
+    <msgn>16</msgn>
+    <msg>#警告
+由于3.3.1.0版本出现重大漏洞
+请马上从群文件下载最新版本客户端安装
+由于该bug，更新无法被推送到旧版客户端
+请马上更新！！！
+如果更新了，当我没说（请确保你客户端左边显示的版本号是3.3.1.1）
+#活动预告
+2022年1月28号晚上9点合影
+另外，宝箱第二期准备开启~
+</msg>
+    <about>全部代码都是小宇一个人写的！
+（简洁明了）</about>
+</desktop>
+<game>
+    <value>2</value>
+    <t1>1.18生存客户端</t1>
+    <t2>1.18生存客户端-低配版</t2>
+    <d1>sc118</d1>
+    <d2>sc118low</d2>
+    <b1>False</b1>
+    <b2>False</b2>
+    <l1>HMCL.exe</l1>
+    <l2>HMCL.exe</l2>
+</game>
+<img>
+    <all>19</all>
+    <img1>https://s4.ax1x.com/2022/01/24/7oD1pV.png</img1>
+    <img2>https://s4.ax1x.com/2022/01/24/7oDnTs.png</img2>
+    <img3>https://s4.ax1x.com/2022/01/24/7oDQf0.png</img3>
+    <img4>https://s4.ax1x.com/2022/01/24/7oD3lT.png</img4>
+    <img5>https://s4.ax1x.com/2022/01/24/7oDMYq.png</img5>
+    <img6>https://s4.ax1x.com/2022/01/24/7oDYm4.png</img6>
+    <img7>https://s4.ax1x.com/2022/01/24/7oD86U.png</img7>
+    <img8>https://s4.ax1x.com/2022/01/24/7oDGXF.png</img8>
+    <img9>https://s4.ax1x.com/2022/01/24/7oDt0J.png</img9>
+    <img10>https://s4.ax1x.com/2022/01/29/7zfPs0.png</img10>
+    <img11>https://s4.ax1x.com/2022/01/29/7zfpzn.png</img11>
+    <img12>https://s4.ax1x.com/2022/01/29/7zfiLV.png</img12>
+    <img13>https://s4.ax1x.com/2022/01/29/7zfkZT.png</img13>
+    <img14>https://s4.ax1x.com/2022/01/29/7zfSRs.png</img14>
+    <img15>https://s4.ax1x.com/2022/01/29/7zfAdU.png</img15>
+    <img16>https://s4.ax1x.com/2022/01/29/7zfEoF.png</img16>
+    <img17>https://s4.ax1x.com/2022/01/29/7zfZi4.png</img17>
+</img>
+</update>
